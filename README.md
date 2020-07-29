@@ -3,6 +3,10 @@
 <p>Desenvolvedor de aplicações web no trabalho dia a dia. </p>
 <p>Desenvolvendo coisas sem sentido no tempo vago </p>
 
+> A chuva não adentra a sua sala  
+Se as cores estiverem dentro de você  
+O sol está disposto ao seu rosto  
+E só é quem é de miliano é que vai entender.
 
 <!--
 **DiegoDenzer/DiegoDenzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
