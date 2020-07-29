@@ -1,7 +1,8 @@
-# Diego Denzer .  .    .  ![enter image description here](https://img.shields.io/badge/VERS%C3%83O-34-red)
+# Diego Denzer  ![enter image description here](https://img.shields.io/badge/VERS%C3%83O-34-red)
 
+<p>Desenvolvedor de aplicações web no trabalho dia a dia. </p>
+<p>Desenvolvendo coisas sem sentido no tempo vago </p>
 
-<p><b>TEXTO</b></p>
 
 <!--
 **DiegoDenzer/DiegoDenzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
