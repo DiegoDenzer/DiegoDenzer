@@ -34,8 +34,8 @@
 
 <br>
 
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDenzer&theme=cobalt&layout=compact" />
+<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDenzer&theme=cobalt&layout=compact&count_private=true" />
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DiegoDenzer&theme=cobalt&show_icons=true&hide_border=true" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DiegoDenzer&theme=cobalt&show_icons=true&hide_border=true&count_private=true" />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
