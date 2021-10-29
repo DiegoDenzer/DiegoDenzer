@@ -1,4 +1,4 @@
-# Diego Denzer  ![enter image description here](https://img.shields.io/badge/VERS%C3%83O-34-red)
+# Diego Denzer  ![enter image description here](https://img.shields.io/badge/VERS%C3%83O-35-red)
 
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center">I'm a <b>Developer</b> from <b>Brazil</b> who :black_heart: <b>web</b> development :computer: and in my free time enjoy games :video_game:, RPG :game_die: and basketball :basketball:! </p>
@@ -38,6 +38,6 @@
 
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DiegoDenzer&theme=cobalt&show_icons=true&hide_border=true&count_private=true" />
 
-<img alt="stats1" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDenzer&theme=dark "/>
+<img alt="stats1" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDenzer&theme=cobalt"/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
