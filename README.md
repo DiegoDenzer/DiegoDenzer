@@ -38,6 +38,6 @@
 
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DiegoDenzer&theme=cobalt&show_icons=true&hide_border=true&count_private=true" />
 
-<img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDenzer&theme=cobalt "/>
+<img alt="stats1" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDenzer&theme=dark "/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
