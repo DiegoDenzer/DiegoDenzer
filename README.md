@@ -1,4 +1,4 @@
-# Diego Denzer  ![enter image description here](https://img.shields.io/badge/VERS%C3%83O-36-red)
+# Diego Denzer  ![enter image description here](https://img.shields.io/badge/VERSION-36-red)
 
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center">I'm a <b>Developer</b> from <b>Brazil</b> who :black_heart: <b>web</b> development :computer: and in my free time enjoy games :video_game:, RPG :game_die: and basketball :basketball:! </p>
