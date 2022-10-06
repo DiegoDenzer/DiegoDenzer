@@ -27,11 +27,6 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
-
-
-
-
-
 <br>
 
 <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDenzer&theme=algolia&count_private=true" />
@@ -39,5 +34,9 @@
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=DiegoDenzer&theme=cobalt&show_icons=true&hide_border=true&count_private=true" />
 
 <img alt="stats1" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDenzer&theme=cobalt"/>
+
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=diegodenzer)](https://holopin.io/@rphi)
+
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
